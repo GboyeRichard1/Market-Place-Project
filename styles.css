@@ -91,7 +91,7 @@ line-height: 40px;
 .contentgroup2{
 display: flex; 
 gap: 10px;
-margin-top: 14px;
+
 }
 
 button{
@@ -113,22 +113,22 @@ padding-top: 7px;
 }
 
 .arrow{
-    margin-bottom: 20px;
-    width: 20px;
-    height: 10px;
+    margin-bottom: 0px;
+    padding-bottom: -10px;
+   
 }
 
 .images{
 display:flex;
 padding-left: -20px;
+border: 1.0px solid black;
 }
 
 .image1{
 width: 300px;
 height: 200px;
 margin-left: -32px;
-border: 1px solid var(--Gray, #8E8E8E);
-box-shadow: 0px 24px 50px 0px rgba(0, 0, 0, 0.10);
+
 
 }
 
@@ -136,8 +136,7 @@ box-shadow: 0px 24px 50px 0px rgba(0, 0, 0, 0.10);
     width: 300px;
     height: 200px;
     margin-left:-32px;
-    border: 1px solid var(--Gray, #8E8E8E);
-    box-shadow: 0px 24px 50px 0px rgba(0, 0, 0, 0.10);
+  
     
 }
 
@@ -155,4 +154,8 @@ box-shadow: 0px 24px 50px 0px rgba(0, 0, 0, 0.10);
     position: absolute;
     top: 0px;
     left:85px;
+}
+
+.contentgroup{
+    margin-bottom: 18px;
 }
