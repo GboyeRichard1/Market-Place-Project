@@ -17,9 +17,51 @@ body{
     background-repeat: no-repeat;
     display: flex;
     border:2px solid black;
-    padding-left: 32px;
-    padding-right: 32px;
-    
+ 
 
 }
 
+.leftside{
+    width:56%;
+    height: 100%;
+    border: 1px solid black;
+    padding-left: 48px;
+    padding-bottom: 24px;
+    padding-top: 24px;
+}
+
+.rightside{
+    width:46%;
+    height: 100%;
+    border: 1px solid black;
+}
+
+.leftsidenav{
+    display: flex;
+    gap:20px; 
+}
+
+.artzie1{
+    margin-right: 54px;
+}
+
+.market, .howitworks, .gallery, .about{
+    color:#2E2F38;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.artzie1{
+    font-size: 36px;
+}
+.art{
+color: var(--Red, #FA504D);
+font-family: Belgrano;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
