@@ -77,6 +77,7 @@ line-height: normal;
     font-size: 44px;
     font-style: normal;
     font-weight: 400;
+    line-height: 48px;
 }
 .contentgroup p{
 color: var(--Gray, #8E8E8E);
@@ -84,11 +85,12 @@ font-family: Poppins;
 font-size: 13.3px;
 font-style: normal;
 font-weight: 400;
+line-height: 40px; 
 }
 .contentgroup2{
 display: flex; 
 gap: 10px;
-margin-top: 10px;
+margin-top: 14px;
 }
 
 button{
