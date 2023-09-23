@@ -25,7 +25,6 @@ body{
 .leftside{
     width:56%;
     height: 100%;
-    border: 1px solid black;
     padding-left: 60px;
     padding-bottom: 24px;
     padding-top: 24px;
@@ -126,14 +125,22 @@ padding-left: -20px;
 
 .image1{
 width: 300px;
-height: 170px;
+height: 200px;
 margin-left: -28px;
 
 }
 
+.rectangle1{
+
+}
+.rectangle1{
+
+}
+
+
 .image2{
     width: 300px;
-    height: 170px;
+    height: 200px;
     margin-left:-32px;
     
 }
