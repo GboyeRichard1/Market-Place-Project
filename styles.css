@@ -60,7 +60,7 @@ body{
 }
 .art{
 color: var(--Red, #FA504D);
-font-family: Belgrano;
+font-family: 'Belgrano', serif;
 font-size: 36px;
 font-style: normal;
 font-weight: 400;
@@ -73,8 +73,8 @@ line-height: normal;
 
 .contentgroup h1{
     color: var(--Black, #2E2F38);
-    font-family: sans-serif;
-    font-size: 46px;
+    font-family: 'Belgrano', serif;
+    font-size: 43px;
     font-style: normal;
     font-weight: 400;
 }
@@ -85,4 +85,15 @@ font-size: 13.3px;
 font-style: normal;
 font-weight: 400;
 line-height: 40px; 
+}
+.contentgroup2{
+display: flex; 
+gap: 10px;
+}
+
+button{
+padding: 0 40px;
+height: 30px;
+background-color: #FA504D;
+color: white;
 }
