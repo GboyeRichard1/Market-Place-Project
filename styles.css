@@ -117,3 +117,17 @@ padding-top: 7px;
     width: 20px;
     height: 10px;
 }
+
+.images{
+display:flex;
+padding-left: -20px;
+}
+
+.image1{
+width: 300px;
+height: 150px;
+}
+.image2{
+    width: 300px;
+    height: 150px;
+}
