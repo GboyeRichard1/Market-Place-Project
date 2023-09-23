@@ -38,7 +38,7 @@ body{
 
 .leftsidenav{
     display: flex;
-    justify-content: space-between;
+    gap:23px; 
 }
 
 .artzie1{
@@ -48,10 +48,11 @@ body{
 .market, .howitworks, .gallery, .about{
     color:#2E2F38;
     font-family: Poppins;
-    font-size: 18px;
+    font-size: 12px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    margin-top: 8px;
 }
 
 .artzie1{
