@@ -154,3 +154,22 @@ margin-right: -20px;
     top: 0px;
     left:85px;
 }
+
+.rightsidenav{
+    display:flex;
+    padding-top: 24px;
+    margin-left: 220px;
+    color:white;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    gap: 20px;
+}
+
+.rightsidenav button {
+ margin-top: -7px;
+ font-size: 12px;
+
+}
