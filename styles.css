@@ -5,8 +5,14 @@
 }
 
 body{
-    height:115vh;
+    display: column;
+    height:300vh;
+    margin-top: 50px;
+    margin-left: 40px;
+    background-color:#8D98AA;
+   
 }
+
 
 .nftcontainer{
     width: 100%;
