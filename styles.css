@@ -13,7 +13,6 @@ body{
     background-color:#8D98AA;   
 }
 
-
 .nftcontainer{
     width: 1200px;
     height: 680px;
@@ -23,7 +22,6 @@ body{
     background-repeat: no-repeat;
     display: flex;
     background-color: white;
-    
 }
 
 .leftside{
@@ -134,9 +132,6 @@ height: 224px;
     width: 392px;
     height: 224px;
     margin-left: -50px;
-   
- 
-    
 }
 
 .leftsideframes{
@@ -191,15 +186,10 @@ height: 224px;
     height: 130px;
     margin-left: 71px;
     margin-top: -50px;
-    
-    
 }
 
 .rightsideimageandshape{
     margin-top: 20px;
-    
-  
-  
 }
 
 .rightsideextra{
@@ -223,23 +213,20 @@ height: 224px;
     line-height: 15px;
 }
     
-
 .rightsideextra{
     position:absolute;
 }
     
-
 .icon{
     width: 30px;
     height: 30px;
 }
 
 .line{
-    width: 350px;
+    width: 330px;
     position: absolute;
-    right: 160px;
+    right: 170px;
     margin-top: -20px;
-   
 }
 
 .rightsideextra{
@@ -256,8 +243,6 @@ height: 224px;
     font-weight: bold;
 }
 
-
-
 .view{
 margin-top: 10px;
 font-size: 10px;
@@ -271,7 +256,6 @@ padding-left: 90px;
     display: flex;
     margin-top: -40px;
     gap:80px;
-   
 }
 
 .lastsets{
@@ -280,7 +264,6 @@ padding-left: 90px;
     padding-left: 72px;
     gap: 40px;
     margin-left: 15px;
-  
 }
 
 .fifty{
