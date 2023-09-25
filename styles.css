@@ -208,8 +208,8 @@ margin-right: -20px;
 
 .rightsideextra{
     position:absolute;
-    top: 400px;
-    right: 300px;
+    top: 500px;
+    right: 440px;
     font-size: 10px;
     display: flex;
     flex-direction: row;
@@ -218,16 +218,18 @@ margin-right: -20px;
 }
 .rightsideextra2{
     position:absolute;
-    top: 400px;
-    right:95px;
+    top: 500px;
+    right:170px;
     font-size: 10px;
     display: flex;
     flex-direction: column;
     line-height: 15px;
 }
     
-
-
+.rightsideextra{
+    position:absolute;
+}
+    
 
 .icon{
     width: 30px;
@@ -235,9 +237,9 @@ margin-right: -20px;
 }
 
 .line{
-    width: 295px;
+    width: 350px;
     position: absolute;
-    right: 95px;
+    right: 170px;
     margin-top: -20px;
    
 }
@@ -256,14 +258,6 @@ margin-right: -20px;
     font-weight: bold;
 }
 
-
-.headings{
- 
-}
-.headings2{
-    display: flex;
-    margin-top: 10px;
-}
 
 
 .view{
@@ -287,6 +281,7 @@ padding-left: 90px;
     display: flex;
     padding-left: 72px;
     gap: 40px;
+    margin-left: 15px;
   
 }
 
