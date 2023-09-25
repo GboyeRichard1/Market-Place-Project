@@ -5,10 +5,12 @@
 }
 
 body{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 80px;
+    margin-right: 80px;
     display: column;
-    height:115vh;
-    margin-top: 50px;
-    margin-left: 40px;
+    height:100vh;
     background-color:#8D98AA;
    
 }
@@ -23,7 +25,7 @@ body{
     background-repeat: no-repeat;
     display: flex;
     border:2px solid black;
-    color: #FFF;
+    background-color: white;
     
  
 
