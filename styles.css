@@ -212,7 +212,7 @@ height: 224px;
     display: flex;
     flex-direction: row;
     gap: 5px;
-    margin-left: -80px;
+    margin-right: 80px;
     
 }
 .rightsideextra2{
