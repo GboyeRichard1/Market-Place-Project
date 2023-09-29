@@ -199,27 +199,26 @@ height: 224px;
 .rightsideextra{
     position:absolute;
     top: 500px;
-    right: 220px;
+    right: 390px;
     font-size: 10px;
     display: flex;
     flex-direction: row;
     gap: 5px;
     margin-right: 200px;
+    line-height: 15px;
     
 }
 .rightsideextra2{
     position:absolute;
     top: 500px;
-    right:177px;
+    right:320px;
     font-size: 10px;
     display: flex;
     flex-direction: column;
     line-height: 15px;
 }
     
-.rightsideextra{
-    position:absolute;
-}
+
     
 .icon{
     width: 30px;
@@ -229,13 +228,11 @@ height: 224px;
 .line{
     width: 330px;
     position: absolute;
-    right: 70px;
+    right: 330px;
     margin-top: -70px;
 }
 
-.rightsideextra{
-    line-height: 15px;
-}
+
 .rightsideextra h4{
     color: var(--Gray, #8E8E8E);
 }
