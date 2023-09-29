@@ -75,11 +75,29 @@ line-height: normal;
 .firstheading{
     color: var(--Black, #2E2F38);
     font-family: 'Belgrano', serif;
-    font-size: 53px;
+    font-size: 44px;
     font-style: normal;
     font-weight: 400;
     line-height: 53px;
+
 }
+
+.contentgroup{
+    position: relative;
+}
+
+.vector{
+    width: 170px;
+    height: 60px;
+    position: absolute;
+    top: 0px;
+    left:85px; 
+}
+
+
+
+
+
 .contentgroup p{
 color: var(--Gray, #8E8E8E);
 font-family: Poppins;
@@ -138,18 +156,8 @@ height: 224px;
     margin-top: -10px;
 }
 
-.firstheading{
-    position: relative;
-    font-size: 44px;
-}
 
-.vector{
-    width: 170px;
-    height: 60px;
-    position: absolute;
-    top: 0px;
-    left:85px;
-}
+
 
 .rightsidenav{
     display:flex;
