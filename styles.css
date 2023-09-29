@@ -94,10 +94,6 @@ line-height: normal;
     left:85px; 
 }
 
-
-
-
-
 .contentgroup p{
 color: var(--Gray, #8E8E8E);
 font-family: Poppins;
@@ -233,8 +229,8 @@ height: 224px;
 .line{
     width: 330px;
     position: absolute;
-    right: 170px;
-    margin-top: -30px;
+    right: 70px;
+    margin-top: -70px;
 }
 
 .rightsideextra{
