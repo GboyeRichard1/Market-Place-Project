@@ -8,7 +8,6 @@ body{
     margin-top: 60px;
     margin-bottom: 60px;
     margin-left: 60px;
-    margin-right: 60px;
     display: column;
     height:100vh;
     background-color:#8D98AA;   
@@ -138,8 +137,6 @@ margin-left: -38px;
 }
 
 
-
-
 .rightsidenav{
     display:flex;
     padding-top: 24px;
@@ -180,7 +177,6 @@ margin-left: -38px;
 .rightsideimageandshape{
     margin-top: 20px;
 }
-
 
 .lastsets{
     margin-top: 30px;
@@ -238,7 +234,6 @@ margin-left: -38px;
 
 .third{
     color: var(--White, #FFF);
- 
     font-family: Poppins;
     font-size: 9px;
     font-style: normal;
